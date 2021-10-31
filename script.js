@@ -11,7 +11,7 @@ new Vue({
       tracks: [
         {
           name: '12 Murid Yesus',
-          artist: 'Tidak Dikenal',
+          artist: 'Artis Tidak Dikenal',
           cover: 'img/1.jpg',
           source: 'mp3/6.mp3',
           url: 'https://www.youtube.com/watch?v=R35pzioMLJU',
